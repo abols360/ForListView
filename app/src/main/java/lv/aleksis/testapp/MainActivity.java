@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private CardView courseCV;
 
     // below line is the variable for url from
-    // where we will be querying our data.
+    // where we will be querying our data. n
     //String url = "https://jsonkeeper.com/b/63OH";
     String url = "https://www.balldontlie.io/api/v1/teams/24";//atsevišķi viena komanda
    // String url = "https://www.balldontlie.io/api/v1/teams/"; // visas komandas, kuras vajadzētu listview ielikt
